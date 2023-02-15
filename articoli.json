@@ -1,0 +1,25 @@
+[
+    {
+        "Percorso": "/articolo1",
+        "Immagine": "img/articolo1.jpg",
+        "Alt": "Articolo - Cos'è la SEO?",
+        "Titolo": "Cos'è la SEO?",
+        "Audio": "audio/SEO.mp3",
+        "BootstrapHomeGrid": "col-12 col-md-6 col-xxl-4 p-4"
+    },
+    {
+        "Percorso": "/articolo2",
+        "Immagine": "img/articolo2.jpeg",
+        "Alt": "Articolo - SEO per il tuo business",
+        "Titolo": "SEO per il tuo business",
+        "Audio": "audio/SEO per il tuo business.mp3",
+        "BootstrapHomeGrid": "col-12 col-md-6 col-xxl-4 p-4"
+    },
+    {
+        "Percorso": "/articolo3",
+        "Immagine": "img/articolo3.jpg",
+        "Alt": "Articolo - Visualizza/Modifica i dati",
+        "Titolo": "Visualizza/Modifica",
+        "BootstrapHomeGrid": "col-12 col-md-6 offset-md-3 col-xxl-4 offset-xxl-0 p-4"
+    }
+]
